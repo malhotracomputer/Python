@@ -1,1 +1,0 @@
-print("Welcome to Python \nDay 1 Practice \nLet's Start Coding")
